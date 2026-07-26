@@ -53,15 +53,15 @@ heart.remove();
 setInterval(createHeart,400);
 const photos=[
 
-"images/photo1.jpg",
+"images/photo1.jpg.jpeg",
 
-"images/photo2.jpg",
+"images/photo2.jpg.jpeg",
 
-"images/photo3.jpg",
+"images/photo3.jpg.jpeg",
 
-"images/photo4.jpg",
+"images/photo4.jpg.jpeg",
 
-"images/photo5.jpg"
+"images/photo5.jpg.jpeg"
 
 ];
 
